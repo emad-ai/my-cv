@@ -18,7 +18,7 @@ const translations = {
         expertiseTitle: "الخبرات",
         communication: "مهارات التواصل",
         teamwork: "القدرة على العمل في فريق",
-        security: "الأمان",
+        security: "الإبداع والابتكار",
         problemSolving: "مهارات حل المشاكل",
         fastLearner: "متعلم سريع",
         flexibility: "المرونة واحترام عمل الفريق",
@@ -57,7 +57,7 @@ const translations = {
         skill3: "➢ فهم بروتوكولات ومعايير الاتصالات",
         skill4: "➢ معرفة جيدة بعمليات التوجيه والتبديل وبروتوكولات الشبكة مثل (TCP/IP, OSPF, STP, VTP, وغيرها)",
         skill5: "➢ استكشاف الأخطاء ومهارات قوية في حل المشاكل والتحليل",
-        skill6: "➢ الذكاء الاصطناعي: نماذج التعلم العميق، دمج الذكاء الاصطناعي",
+        skill6: "➢ الذكاء الاصطناعي: نماذج التعلم العميق، تكامل الذكاء الاصطناعي",
         skill7: "➢ لغات البرمجة: Python, Matlab, C++, C#, Java, HTML, CSS, JavaScript, PHP, MySQL, Laravel"
     },
     en: {
@@ -78,7 +78,7 @@ const translations = {
         expertiseTitle: "Expertise",
         communication: "Communication skills",
         teamwork: "Ability to work in team",
-        security: "Security",
+        security: "Creativity and innovation",
         problemSolving: "Problem-solving skills",
         fastLearner: "Fast learner",
         flexibility: "Flexibility & Respect team work",
